@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="postres_de_droides">Postres de droides</string>
+    <string name="descripcion_img_donut">Los Donuts se glasean y espolvorean con azúcar</string>
+    <string name="descripcion_img_helado">Los Sandwiches de helado tienen galletas de chocolate y relleno de vainilla</string>
+    <string name="descripcion_img_froyo">FroYo es un yogurt helado para llevar de primera calidad</string>
+
+    <string name="pedido_donut">Has seleccionado un donut</string>
+    <string name="pedido_helado">Has seleccionado un helado</string>
+    <string name="pedido_froyo">Has seleccionado un FroYo</string>
+    <string name="imagen_producto">Imagen Producto</string>
+    <string name="no_seleccionado">No has seleccionado ningún producto</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Teléfono</string>
+    <string name="notas">Notas</string>
+</resources>
