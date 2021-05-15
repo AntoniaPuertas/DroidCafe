@@ -23,4 +23,15 @@
     <string name="direccion">Dirección</string>
     <string name="telefono">Teléfono</string>
     <string name="notas">Notas</string>
+    <string name="txt_seleccion">Selecciona el modo de entrega</string>
+    <string name="mismo_dia">El mismo día</string>
+    <string name="dia_siguiente">Día Siguiente</string>
+    <string name="seleccionar_fecha">Seleccionar Fecha</string>
+
+    <string-array name="texto_sppiner">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Móvil</item>
+        <item>Otro</item>
+    </string-array>
 </resources>
