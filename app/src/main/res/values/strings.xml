@@ -27,6 +27,29 @@
     <string name="mismo_dia">El mismo día</string>
     <string name="dia_siguiente">Día Siguiente</string>
     <string name="seleccionar_fecha">Seleccionar Fecha</string>
+    <string name="contacto">Contacto</string>
+    <string name="pedido">Pedido</string>
+    <string name="estado">Estado</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="action_pedido_mensaje">Has seleccionado Pedido</string>
+    <string name="action_estado_mensaje">Has seleccionado Estado</string>
+    <string name="action_favoritos_mensaje">Has seleccionado Favoritos</string>
+    <string name="action_contacto_mensaje">Has seleccionado Contacto</string>
+    <string name="cabecera">Título de la receta</string>
+    <string name="descripcion_receta">Descripción de la receta</string>
+    <string name="texto_receta">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id dolor cursus, congue justo et, tempor orci. Praesent quis efficitur arcu. Donec eu lorem vitae sem placerat tincidunt. Sed ullamcorper sit amet ex et euismod. Nullam ac eros id justo volutpat tincidunt. Nullam ipsum lectus, vehicula quis egestas non, gravida nec nunc. Phasellus suscipit ligula ut eros commodo vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam ullamcorper nisi nec tincidunt iaculis. Donec aliquam nisl nec neque pretium hendrerit. Integer commodo, nibh sed tincidunt imperdiet, quam nisi molestie ligula, sed congue sapien sapien id magna. Nullam sit amet felis maximus, convallis libero at, tempus lorem. Sed rutrum fermentum turpis, pharetra tincidunt velit finibus at. Maecenas bibendum risus vestibulum facilisis consectetur.
+
+Vestibulum rutrum, felis et ultricies aliquam, magna sem tincidunt purus, eu gravida nisi elit nec neque. Nullam risus ligula, suscipit et nisi vitae, feugiat facilisis nulla. Nulla facilisi. Ut venenatis placerat pulvinar. Phasellus iaculis maximus erat, vitae posuere orci iaculis quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam nec ipsum porttitor, elementum enim eget, scelerisque nisi. Ut ut pulvinar nunc, eu tristique felis. Vivamus ligula enim, congue sit amet fringilla sed, eleifend ac neque. Curabitur rutrum ante non ligula mattis, non faucibus felis sagittis. Sed ut mauris vitae libero eleifend ornare.
+
+Nullam ut congue magna. Quisque accumsan arcu feugiat mauris egestas malesuada. Phasellus semper tempor turpis vitae accumsan. In eu rutrum risus. Nullam pretium neque ligula, vitae vulputate libero tincidunt quis. Curabitur egestas eleifend quam et tristique. Maecenas viverra risus at aliquet eleifend. Suspendisse non velit at eros malesuada pulvinar sit amet at augue. Sed sapien ex, gravida a dictum ut, lacinia et sapien. Nam suscipit urna eu diam mattis accumsan. Nunc in mauris nisi. Vivamus leo velit, euismod quis ullamcorper et, vulputate vehicula felis. Curabitur mattis, ante sit amet tempus lacinia, nisl lectus sodales lacus, in luctus nibh massa at elit. Curabitur ut iaculis dolor, sed porta metus. Integer fringilla velit sit amet risus fringilla, a faucibus sem consectetur. Aenean id erat ex.
+
+Integer eget gravida justo. Aenean vel quam ut turpis dictum ornare. Nulla sagittis euismod erat, sit amet rutrum elit venenatis vel. Nunc vulputate neque vel sem mattis ultrices. Praesent lobortis quam leo, ac tincidunt lacus finibus posuere. Mauris bibendum pellentesque neque id rhoncus. Suspendisse mollis purus urna, sed sollicitudin quam mollis vel. Aliquam ex purus, facilisis non nisi vel, malesuada maximus nibh. Cras fermentum bibendum turpis vel blandit. Nulla sed ante et nisi ullamcorper volutpat at ut ex. Integer id porttitor ipsum, ac convallis tortor. Fusce vulputate tempor ultrices.</string>
+    <string name="editar">Editar</string>
+    <string name="compartir">Compartir</string>
+    <string name="borrar">Borrar</string>
+
 
     <string-array name="texto_sppiner">
         <item>Casa</item>

@@ -9,12 +9,10 @@ import com.google.android.material.snackbar.Snackbar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import android.util.Log;
 import android.view.View;
 
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ImageView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -95,14 +93,25 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        switch (item.getItemId()){
+            case R.id.action_pedido:
+                mostrarMensaje(getString(R.string.action_pedido_mensaje));
+                ordenarPedido("froyo");
+                break;
+            case R.id.action_estado:
+                mostrarMensaje(getString(R.string.action_estado_mensaje));
+                break;
+            case R.id.action_favorites:
+                mostrarMensaje(getString(R.string.action_favoritos_mensaje));
+                Intent intent = new Intent(MainActivity.this, RecetaActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.action_contact:
+                mostrarMensaje(getString(R.string.action_contacto_mensaje));
+                break;
+            default:
+                break;
         }
 
         return super.onOptionsItemSelected(item);
